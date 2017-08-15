@@ -1,0 +1,45 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+ margin: 0;
+}
+
+nav {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
+
+.navegacion {
+  height: 3em;
+  line-height: 3em;
+  position: fixed;
+
+}
+
+.naveg {
+  text-decoration: none;
+  margin: 0 4em 0 4em;
+}
+
+.logonavega{
+  display: block;
+  height: 4em;
+  width: 6em;
+  float: left;
+}
+
+.portada {
+z-index: -1;
+width:100%;
+height:auto;
+}
+
+
+.fondo {
+ z-index: -1;
+ width:100%;
+ height:auto;
+ }
